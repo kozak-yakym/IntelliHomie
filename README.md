@@ -1,2 +1,2 @@
 # hodro
-Home drone to watch the house
+A home drone for home security in the absence of a human.
