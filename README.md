@@ -1,9 +1,9 @@
 # IntelliHomie open source project.
 
-git@github.com:kozak-yakym/IntelliHomie.git
+[git@github.com:kozak-yakym/IntelliHomie.git](https://git@github.com:kozak-yakym/IntelliHomie.git)
 
 ## Table of Contents
-- [Introduction](#👋-introduction)
+- [Introduction](#introduction)
 - [Modules and Submodules](#modules-and-submodules)
   - [Robot with API](#robot-with-api)
     - [Mechanics](#mechanics)
@@ -28,7 +28,7 @@ git@github.com:kozak-yakym/IntelliHomie.git
 - [Contributing](#contributing)
 - [License](#license)
 
-## 👋 Introduction
+## Introduction
 
 ## Overview
 This open-source initiative aims to revolutionize the smart home landscape by introducing an advanced control system powered by artificial intelligence. Our project transcends traditional smart home scenarios, focusing on automating household processes with a keen emphasis on safety, efficiency, and user engagement.
