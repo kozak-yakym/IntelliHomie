@@ -53,7 +53,7 @@ The initial phase focuses on local network connectivity, ensuring a secure and r
 # Modules and Submodules
 
 ## Robot with API
-The robot is the core of our smart home system, equipped with a versatile API that allows for extensive customization and control.
+The robot is one of the operating devices of our smart home system, equipped with a versatile API that allows for extensive customization and control.
 
 ### Mechanics
 - **Function:** Provides the physical structure and movement capabilities for the robot.
@@ -132,7 +132,7 @@ Submodules are specialized components of each module, providing additional granu
 # Integration
 
 ## Smart Home Integration
-Our system is engineered to seamlessly integrate with existing smart home ecosystems, providing a unified control experience:
+Our system will be engineered to seamlessly integrate with existing smart home ecosystems, providing a unified control experience:
 
 ### HomeAssistant Compatibility
 - **Detail:** Allows users to manage and automate their smart home devices through our central gateway, leveraging the robust features of HomeAssistant.
