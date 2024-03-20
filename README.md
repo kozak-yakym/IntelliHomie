@@ -1,6 +1,6 @@
 # IntelliHomie open source project.
 
-[git@github.com:kozak-yakym/IntelliHomie.git](https://git@github.com:kozak-yakym/IntelliHomie.git)
+[Git repo: git@github.com:kozak-yakym/IntelliHomie.git](https://github.com/kozak-yakym/IntelliHomie)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -38,6 +38,7 @@ The inspiration behind this endeavor is to foster a harmonious environment where
 
 ## Current Status
 Currently, the project is in the development phase, with a beta version on the horizon. The system's architecture is modular, allowing for flexible enhancements and integrations. It features a central hub that orchestrates a fleet of home robots, each equipped with capabilities such as sophisticated navigation, precise task execution, and a robust testing environment for firmware and neural networks. Documentation is continuously updated to reflect the system's evolution and ease of integration with existing smart home ecosystems.
+More detailed status can be found on the [Kanban board of our project](https://github.com/users/kozak-yakym/projects/1).
 
 # Central Component
 
