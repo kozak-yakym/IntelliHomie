@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Modules and Submodules](#modules-and-submodules)
-  - [Robot with API](#robot-with-api)
+  - [A fleet of robots](#a-fleet-of-robots)
     - [Mechanics](#mechanics)
     - [Electronics](#electronics)
     - [Firmware](#firmware)
@@ -55,39 +55,13 @@ The initial phase focuses on local network connectivity, ensuring a secure and r
 
 # Modules and Submodules
 
-## Robot with API
-The robot is one of the operating devices of our smart home system, equipped with a versatile API that allows for extensive customization and control.
+## A fleet of robots
 
-### Mechanics
-- **Function:** Provides the physical structure and movement capabilities for the robot.
-- **Interaction:** Works in tandem with the Electronics and Firmware to execute precise movements.
+The IntelliHomie system is designed to be the central hub for a diverse fleet of robots with different APIs. Our vision is to create a versatile and inclusive ecosystem that supports integration of various robotic platforms, enabling them to work in harmony within the smart home environment.
 
-### Electronics
-- **Function:** Powers the robot's hardware and enables communication between different components.
-- **Interaction:** Interfaces with the Firmware to translate software commands into hardware actions.
+To kickstart this ambitious integration, we are beginning with our custom-built [IntelliHomie-Roboplatform](https://github.com/kozak-yakym/IntelliHomie-Roboplatform). This platform is tailored to align closely with the IntelliHomie system, providing a seamless experience and robust functionality right out of the box. The IntelliHomie-Roboplatform serves as the first step towards realizing our goal of a fully integrated, multi-robot smart home solution.
 
-### Firmware
-The Firmware is the low-level software that directly interacts with the robot's hardware.
-
-#### Core
-- **Function:** Acts as the central operating system for the robot.
-- **Interaction:** Coordinates all other firmware submodules.
-
-#### Actuators and Output Systems
-- **Function:** Controls the robot's movements and interactions with the environment.
-- **Interaction:** Receives instructions from the Core to perform tasks.
-
-#### Sensors and Camera
-- **Function:** Gathers data from the environment to inform the robot's actions.
-- **Interaction:** Feeds real-time data to the Navigation and Task Execution Modules.
-
-#### Connectivity
-- **Function:** Manages the robot's ability to communicate with external devices and networks.
-- **Interaction:** Ensures seamless integration with the Central Part for remote control and updates.
-
-#### Power Management Systems
-- **Function:** Oversees the energy consumption and battery life of the robot.
-- **Interaction:** Works with all modules to optimize power usage.
+More about this roboplatform: [github.com/kozak-yakym/IntelliHomie-Roboplatform](https://github.com/kozak-yakym/IntelliHomie-Roboplatform)
 
 ## Central Part
 The Central Part serves as the intelligent gateway and control center for the smart home system.
