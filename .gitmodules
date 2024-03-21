@@ -1,0 +1,3 @@
+[submodule "IntelliHomie-Roboplatform"]
+	path = IntelliHomie-Roboplatform
+	url = git@github.com:kozak-yakym/IntelliHomie-Roboplatform.git
